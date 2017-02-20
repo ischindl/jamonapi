@@ -21,3 +21,4 @@ CVS/
 # Maven
 log/
 target/
+/rebel.xml
